@@ -49,4 +49,4 @@ snake-master/
 - Khi chơi, hãy chọn tốc độ và màu sắc phù hợp để có trải nghiệm tốt nhất.
 
 ---
-Tác giả: [Từ Minh Khoa - Võ Sĩ Trí Thông] 
+Tác giả: [Từ Minh Khoa - Võ Sĩ Trí Thông - Tăng Minh Hoàng] 
