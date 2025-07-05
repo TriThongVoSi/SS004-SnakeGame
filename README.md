@@ -1,5 +1,5 @@
 # ĐỒ ÁN KỸ NĂNG NGHỀ NGHIỆP
-
+# GVHD: Nguyễn Văn Toàn
 # Snake - Game Rắn Săn Mồi (C++)
 
 ## Giới thiệu
@@ -52,3 +52,5 @@ snake-master/
 
 ---
 Tác giả: [Từ Minh Khoa - Võ Sĩ Trí Thông - Tăng Minh Hoàng] 
+---
+Đồ án này viết báo cáo bằng latex
